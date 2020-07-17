@@ -1,8 +1,9 @@
-#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U
 
 -----------------------------------------Entertainment-----------------------------------------
-#EXTINF:0,1
-https://pankajbd.com/stm-v3/api/def34.php?id=467&quality=1&type=0|User-Agent="Lavf/56.15.102"
+
+
+
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
