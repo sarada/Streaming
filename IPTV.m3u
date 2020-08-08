@@ -48,6 +48,8 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 -----------------------------------------Infotainment-----------------------------------------
 
 
+#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD Hindi
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
@@ -65,8 +67,6 @@ http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
 http://127.0.0.1:48996/play/Discovery_Turbo/Discovery_Turbo_800.m3u8
 #EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD Hindi
 http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
-#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD Hindi
-http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC Hindi
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
 EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
