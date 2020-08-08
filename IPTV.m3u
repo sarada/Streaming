@@ -11,7 +11,7 @@ http://127.0.0.1:48996/play/Sony_SAB_HD/Sony_SAB_HD_800.m3u8
 http://127.0.0.1:48996/play/Zee_TV_HD/Zee_TV_HD_800.m3u8
 #EXTINF:0 tvg-id="472" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://127.0.0.1:48996/play/And_TV_HD/And_TV_HD_800.m3u8
-#EXTINF:0 tvg-id="158" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD IP
+#EXTINF:0 tvg-id="158" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
 http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starplushd/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 #EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
 http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
@@ -27,7 +27,7 @@ http://127.0.0.1:48996/play/Sony_Pal/Sony_Pal_800.m3u8
 http://127.0.0.1:48996/play/Zee_Salaam/Zee_Salaam_800.m3u8
 #EXTINF:-1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Entertainment",The Q India
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
-#EXTINF:0 tvg-id="481" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+#EXTINF:0 tvg-id="481" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic HD
 http://127.0.0.1:48996/play/Epic_HD/Epic_HD_800.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 #EXTINF:0 tvg-id="1157" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Comedy_Central.jpg",Comedy Central HD
@@ -48,7 +48,7 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 -----------------------------------------Infotainment-----------------------------------------
 
 
-#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD Hindi
+#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
@@ -56,7 +56,7 @@ EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77583
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
-#EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet Hindi
+#EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 #EXTINF:0 tvg-id="575" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discovery_639.png",Discovery Channel
@@ -65,9 +65,9 @@ http://127.0.0.1:48996/play/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.
 http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 http://127.0.0.1:48996/play/Discovery_Turbo/Discovery_Turbo_800.m3u8
-#EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD Hindi
+#EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
 http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
-#EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC Hindi
+#EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC HD
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
 EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
@@ -205,17 +205,17 @@ https://v.aaho.tv/live/aahomusic.m3u8
 -----------------------------------------Kids-----------------------------------------
 
 
-#EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
 http://127.0.0.1:48996/play/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
-#EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo
 http://127.0.0.1:48996/play/Pogo_Hindi/Pogo_Hindi_800.m3u8
-#EXTINF:0 tvg-id="815" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
+#EXTINF:0 tvg-id="815" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic
 http://127.0.0.1:48996/play/sonic_Hindi/sonic_Hindi_800.m3u8
-#EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
 http://127.0.0.1:48996/play/Nick_Hindi/Nick_Hindi_800.m3u8
 #EXTINF:0 tvg-id="1226" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NickHDPlus.png",Nick HD+
 http://127.0.0.1:48996/play/packagerx_mpd3/Nick_HD_Plus/master.m3u8
-#EXTINF:0 tvg-id="872" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
+#EXTINF:0 tvg-id="872" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay
 http://127.0.0.1:48996/play/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
 #EXTINF:0 tvg-id="554" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discoverykids.png",Discovery Kids 2
 http://127.0.0.1:48996/play/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
@@ -235,8 +235,6 @@ http://202.163.117.6:9981/stream/channelid/349051393
 
 #EXTINF:0 tvg-id="258" group-title="News" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ndtvindia.jpg",NDTV India
 http://127.0.0.1:48996/play/NDTV_India/NDTV_India_800.m3u8
-#EXTINF:-1 tvg-id="1431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi
-http://127.0.0.1:48996/play/BBC_Hindi/BBC_Hindi_800.m3u8
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_4/chunklist.m3u8
 http://127.0.0.1:48996/play/Aaj_Tak/Aaj_Tak_800.m3u8
@@ -260,6 +258,8 @@ https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatv
 http://127.0.0.1:48996/play/packagerx_mpd1/TV9_Bharatvarsh/master.m3u8
 #EXTINF:0 tvg-id="498" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",India news
 http://127.0.0.1:48996/play/India_news/India_news_800.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi
+http://127.0.0.1:48996/play/BBC_Hindi/BBC_Hindi_800.m3u8
 #EXTINF:0 tvg-id="518" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png",Sudarshan
 http://127.0.0.1:48996/play/Sudarshan/Sudarshan_800.m3u8
 #EXTINF:0 tvg-id="203" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
