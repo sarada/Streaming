@@ -26,13 +26,13 @@ http://127.0.0.1:48996/play/Sony_Pal/Sony_Pal_800.m3u8
 #EXTINF:0 tvg-id="728" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
 http://127.0.0.1:48996/play/Zee_Salaam/Zee_Salaam_800.m3u8
 #EXTINF:-1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Entertainment",The Q India
+http://127.0.0.1:48996/play/QYOUHD/QYOUHD_800.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
 #EXTINF:0 tvg-id="481" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+http://127.0.0.1:48996/play/Epic_HD/Epic_HD_800.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7073.Fun TV.in/1x1/1x/test_pic1594370301269.jpg" group-title="Entertainment",Shemaroo TV
-https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #EXTINF:0 tvg-id="1157" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Comedy_Central.jpg",Comedy Central HD
-http://127.0.0.1:48996/play/Comedy_Central_HD/Comedy_Central_HD_800.m3u8|user-agent="GENUINE TV/1.3.2 (Linux;Android 9) ExoPlayerLib/2.9.4"
+http://127.0.0.1:48996/play/Comedy_Central_HD/Comedy_Central_HD_800.m3u8
 #EXTINF:0 tvg-id="1158" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Colors_Infinity.jpg",Colors Infinity HD
 http://127.0.0.1:48996/play/Colors_Infinity_HD/Colors_Infinity_HD_800.m3u8
 #EXTINF:0 tvg-id="527" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
@@ -49,9 +49,9 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 -----------------------------------------Infotainment-----------------------------------------
 
 
-#EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
-#EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77583
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
@@ -70,7 +70,7 @@ http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC Hindi
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
-#EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
+EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
