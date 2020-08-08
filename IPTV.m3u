@@ -108,9 +108,9 @@ http://127.0.0.1:48996/play/Zee_Action/Zee_Action_800.m3u8
 http://127.0.0.1:48996/play/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8
 #EXTINF:0 tvg-id="487" group-title="Movies" tvg-logo="http://139.59.5.164/stm-v3/api/logo/zee-bollywood_163.png",Zee Bollywood
 http://127.0.0.1:48996/play/Zee_Classic/Zee_Classic_800.m3u8
-#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/zeeclassic.png" group-title="Movies",Zee Classic
+EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/zeeclassic.png" group-title="Movies",Zee Classic
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&i=_20&e=.m3u8
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
+EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
 #EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -159,9 +159,10 @@ http://127.0.0.1:48996/play/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
 #EXTINF:0 tvg-id="834" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png",WB
 http://127.0.0.1:48996/play/WB/WB_800.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/MKOIlzdt.png" group-title="Movies", &Flix HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andflixhd&e=.m3u8
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-priv%C3%A9hd/cover/170x120/privehd386x386white.png" group-title="Movies", &Prive HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd&e=.m3u8
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+
 
 
 
@@ -222,7 +223,7 @@ http://127.0.0.1:48996/play/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
 #EXTINF:0 tvg-id="544" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
 http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=bigmagic&e=.m3u8
+http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
