@@ -26,7 +26,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BT
 #EXTVLCOPT:http-user-agent=jiotv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.43.71:48996/wv/Star_Bharat_HD_BTS
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Bharat_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="144" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://127.0.0.1:48996/play/Colors_HD/Colors_HD_800.m3u8
