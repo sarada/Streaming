@@ -18,7 +18,7 @@ http://127.0.0.1:48996/play/And_TV_HD/And_TV_HD_800.m3u8
 #EXTVLCOPT:http-user-agent=jiotv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.43.71:48996/wv/Star_PlusHD_BTS
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_PlusHD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
 http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
@@ -99,7 +99,7 @@ http://127.0.0.1:48996/play/And_Pictures_HD/And_Pictures_HD_800.m3u8
 #EXTVLCOPT:http-user-agent=jiotv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://192.168.43.71:48996/wv/Star_GoldHD_BTS
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_GoldHD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 http://sngprecdnems05.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/stargold/master_1800.m3u8|user-agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 #EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
