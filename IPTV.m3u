@@ -186,12 +186,15 @@ http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0 tvg-id="762" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_Pix_HD/4.m3u8
 #EXTINF:0 tvg-id="151" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://127.0.0.1:48996/play/Movies_Now_HD/Movies_Now_HD_800.m3u8
 #EXTINF:0 tvg-id="877" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png",MNX HD
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://127.0.0.1:48996/play/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
 #EXTINF:0 tvg-id="477" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/mnplushd.jpg",MN+ HD
 http://127.0.0.1:48996/play/MNPLUS/MNPLUS_800.m3u8
 #EXTINF:0 tvg-id="478" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",Romedy Now HD
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 http://127.0.0.1:48996/play/Romedy_Now_HD/Romedy_Now_HD_800.m3u8
 #EXTINF:0 tvg-id="834" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png",WB
 http://127.0.0.1:48996/play/WB/WB_800.m3u8
