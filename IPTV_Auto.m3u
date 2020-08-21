@@ -79,13 +79,13 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
+http://127.0.0.1:48996/play/Travel_XP/master.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77583
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
-http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
+http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/master.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
@@ -96,17 +96,17 @@ http://127.0.0.1:48996/play/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-http://127.0.0.1:48996/play/Discovery_Turbo/Discovery_Turbo_800.m3u8
+http://127.0.0.1:48996/play/Discovery_Turbo/master.m3u8
 #EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
-http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
+http://127.0.0.1:48996/play/History_18_Hindi/master.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC HD
 https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
 EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
-http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
+http://127.0.0.1:48996/play/FYI_TV18/master.m3u8
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b900000.m3u8
-http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
+http://127.0.0.1:48996/play/Food_Food/master.m3u8
 EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
 http://127.0.0.1:48996/play/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
 #EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment",Living Foodz
