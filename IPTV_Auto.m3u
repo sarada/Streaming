@@ -82,7 +82,7 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-http://127.0.0.1:48996/play/Travel_XP/master.m3u8
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
@@ -267,13 +267,13 @@ https://v.aaho.tv/live/aahomusic.m3u8
 -----------------------------------------Kids-----------------------------------------
 
 
-#EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
+#EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
 http://127.0.0.1:48996/play/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
-#EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo
+#EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",Pogo
 http://127.0.0.1:48996/play/Pogo_Hindi/Pogo_Hindi_800.m3u8
-#EXTINF:0 tvg-id="815" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic
+#EXTINF:0 tvg-id="815" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png",Sonic
 http://127.0.0.1:48996/play/sonic_Hindi/sonic_Hindi_800.m3u8
-#EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
+#EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="https://static.epg.best/in/Nick.in.png",Nick
 http://127.0.0.1:48996/play/Nick_Hindi/Nick_Hindi_800.m3u8
 #EXTINF:0 tvg-id="1226" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NickHDPlus.png",Nick HD+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
