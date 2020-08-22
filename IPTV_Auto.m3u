@@ -91,11 +91,12 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 #EXTINF:0 tvg-id="575" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discovery_639.png",Discovery Channel
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
-http://127.0.0.1:48996/play/Discovery_Channel_Hindi/Discovery_Channel_Hindi_800.m3u8
+http://127.0.0.1:48996/play/Discovery_Channel_Hindi/master.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+https://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Turbo/master.m3u8
 #EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
 http://127.0.0.1:48996/play/History_18_Hindi/master.m3u8
@@ -139,7 +140,9 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BT
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Gold_Select_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
 #EXTINF:0 tvg-id="482" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex
-http://127.0.0.1:48996/play/Colors_Cineplex_HD/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=kDDuaRYMluIZgvBF%2bOaY3z97df0%3d
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
 #EXTINF:0 tvg-id="1450" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex
 http://127.0.0.1:48996/play/Rishtey_Cineplex/master.m3u8
 #EXTINF:0 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
