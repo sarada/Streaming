@@ -167,7 +167,7 @@ http://127.0.0.1:48996/play/packagerx_mpd1/Bflix_Movies/4.m3u8
 http://127.0.0.1:48996/play/B4U_Kadak/B4U_Kadak_800.m3u8
 #EXTINF:0 tvg-id="841" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png",Housefull Movies
 http://127.0.0.1:48996/play/Housefull_Movies/Housefull_Movies_800.m3u8
-#EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY_Dhakad
+#EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
 http://127.0.0.1:48996/play/ABZY_Dhakad/ABZY_Dhakad_800.m3u8
 #EXTINF:0 tvg-id="1269" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
 http://127.0.0.1:48996/play/ABZY_Cool/ABZY_Cool_800.m3u8
