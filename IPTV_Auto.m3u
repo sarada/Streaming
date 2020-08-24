@@ -149,6 +149,22 @@ http://127.0.0.1:48996/play/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
 http://127.0.0.1:48996/play/vendor/483/master.m3u8
 #EXTINF:0 tvg-id="182" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
 http://127.0.0.1:48996/play/B4U_Movies/B4U_Movies_800.m3u8
+#EXTINF:0 tvg-id="1295" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
+http://127.0.0.1:48996/play/B4U_Kadak/B4U_Kadak_800.m3u8
+#EXTINF:0 tvg-id="1276" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png",Box Cinema
+http://127.0.0.1:48996/play/packagerx_mpd1/Box_Cinema/4.m3u8
+#EXTINF:0 tvg-id="809" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
+http://127.0.0.1:48996/play/Maha_Movies/Maha_Movies_800.m3u8
+#EXTINF:0 tvg-id="1266" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
+http://127.0.0.1:48996/play/packagerx_mpd1/Bflix_Movies/4.m3u8
+#EXTINF:0 tvg-id="841" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png",Housefull Movies
+http://127.0.0.1:48996/play/Housefull_Movies/Housefull_Movies_800.m3u8
+#EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
+http://127.0.0.1:48996/play/ABZY_Dhakad/ABZY_Dhakad_800.m3u8
+#EXTINF:0 tvg-id="1269" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
+http://127.0.0.1:48996/play/ABZY_Cool/ABZY_Cool_800.m3u8
+#EXTINF:0 tvg-id="1270" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY Movies
+http://127.0.0.1:48996/play/ABZY_Movies/ABZY_Movies_800.m3u8
 #EXTINF:0 tvg-id="488" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://127.0.0.1:48996/play/vendor/488/master.m3u8
 #EXTINF:0 tvg-id="415" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
@@ -159,22 +175,6 @@ http://127.0.0.1:48996/play/vendor/487/master.m3u8
 http://three.somee.com/web.php?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&i=_20&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
-#EXTINF:0 tvg-id="1276" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png",Box Cinema
-http://127.0.0.1:48996/play/packagerx_mpd1/Box_Cinema/4.m3u8
-#EXTINF:0 tvg-id="809" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
-http://127.0.0.1:48996/play/Maha_Movies/Maha_Movies_800.m3u8
-#EXTINF:0 tvg-id="1266" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
-http://127.0.0.1:48996/play/packagerx_mpd1/Bflix_Movies/4.m3u8
-#EXTINF:0 tvg-id="1295" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
-http://127.0.0.1:48996/play/B4U_Kadak/B4U_Kadak_800.m3u8
-#EXTINF:0 tvg-id="841" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png",Housefull Movies
-http://127.0.0.1:48996/play/Housefull_Movies/Housefull_Movies_800.m3u8
-#EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
-http://127.0.0.1:48996/play/ABZY_Dhakad/ABZY_Dhakad_800.m3u8
-#EXTINF:0 tvg-id="1269" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
-http://127.0.0.1:48996/play/ABZY_Cool/ABZY_Cool_800.m3u8
-#EXTINF:0 tvg-id="1270" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY Movies
-http://127.0.0.1:48996/play/ABZY_Movies/ABZY_Movies_800.m3u8
 http://slcknecdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABZY_Dhakad/ABZY_Dhakad_800-1598284794000.ts
 #EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
