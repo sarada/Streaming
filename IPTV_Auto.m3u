@@ -43,7 +43,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_HD_BTS/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Rishtey_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="473" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://127.0.0.1:48996/play/vendor/473/master.m3u8
 #EXTINF:0 tvg-id="474" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
@@ -159,7 +159,7 @@ http://127.0.0.1:48996/play/vendor/483/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/B4U_Movies_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="1295" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
 http://127.0.0.1:48996/play/B4U_Kadak/B4U_Kadak_800.m3u8
 #EXTINF:0 tvg-id="1276" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png",Box Cinema
@@ -270,7 +270,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/MTV_Beats_HD_B
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/E_24_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/E_24_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/E_24_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="592" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Zoom.jpg",ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="584" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
@@ -290,7 +290,7 @@ http://127.0.0.1:48996/play/vendor/440/master.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/B4U_Music_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Music_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Music_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="589" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee etc
 http://127.0.0.1:48996/play/vendor/589/master.m3u8
 #EXTINF:0 tvg-id="250" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
