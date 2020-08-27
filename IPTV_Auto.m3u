@@ -73,11 +73,11 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Colors_Infinit
 #EXTINF:0 tvg-id="527" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
 http://127.0.0.1:48996/play/ID/ID_800.m3u8
 #EXTINF:0 tvg-id="528" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
-http://127.0.0.1:48996/play/DD_India/DD_India_800.m3u8
+http://127.0.0.1:48996/play/vendor/528/master.m3u8
 #EXTINF:0 tvg-id="202" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
-http://127.0.0.1:48996/play/DD_National/DD_National_800.m3u8
+http://127.0.0.1:48996/play/vendor/202/master.m3u8
 #EXTINF:-1 tvg-id="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Entertainment",DD Bharati
-http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
+http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 
 
@@ -170,6 +170,8 @@ http://127.0.0.1:48996/play/Maha_Movies/Maha_Movies_800.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd1/Bflix_Movies/4.m3u8
 #EXTINF:0 tvg-id="841" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png",Housefull Movies
 http://127.0.0.1:48996/play/Housefull_Movies/Housefull_Movies_800.m3u8
+#EXTINF:0 tvg-id="1280" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
+http://127.0.0.1:48996/play/packagerx_mpd1/Manoranjan_TV/4.m3u8
 #EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
 http://127.0.0.1:48996/play/ABZY_Dhakad/ABZY_Dhakad_800.m3u8
 #EXTINF:0 tvg-id="1269" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
@@ -274,7 +276,13 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/E_24_BTS/outpu
 #EXTINF:0 tvg-id="592" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Zoom.jpg",ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="584" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
-http://127.0.0.1:48996/play/Mastiii/Mastiii_800.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Mastiii_BTS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Mastiii_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
 http://127.0.0.1:48996/play/vendor/585/master.m3u8
 #EXTINF:0 tvg-id="587" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/9xm.png",9XM
@@ -294,7 +302,13 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Music_BTS/
 #EXTINF:0 tvg-id="589" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee etc
 http://127.0.0.1:48996/play/vendor/589/master.m3u8
 #EXTINF:0 tvg-id="250" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
-http://127.0.0.1:48996/play/Music_India/Music_India_800.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Music_India_BTS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Music_India_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="Music",Dil Se
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 EXTINF:0 group-title="Music" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png",Pop पटाखा
