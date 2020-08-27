@@ -85,13 +85,7 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Travel_XP_HD_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.sansat.net:25461/YviwmvfIsPQrxTu/RRSJYMOGijtpwfN/77584
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
