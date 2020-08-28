@@ -274,7 +274,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/MTV_Beats_HD_B
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/E_24_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/E_24_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="592" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Zoom.jpg",ZOOM
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:0 tvg-id="584" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -310,7 +310,8 @@ http://127.0.0.1:48996/play/vendor/589/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Music_India_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Music_India_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="Music",Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 EXTINF:0 group-title="Music" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png",Pop पटाखा
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
