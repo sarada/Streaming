@@ -3,7 +3,6 @@
 -----------------------------------------Entertainment-----------------------------------------
 
 
-
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://127.0.0.1:48996/play/vendor/291/master.m3u8
 #EXTINF:0 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
@@ -113,8 +112,8 @@ EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubuse
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
-EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
-http://127.0.0.1:48996/play/NDTV_Good_Times/NDTV_Good_Times_800.m3u8
+#EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
+https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment",Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/playlist.m3u8
 
@@ -172,6 +171,8 @@ http://127.0.0.1:48996/play/packagerx_mpd1/Bflix_Movies/4.m3u8
 http://127.0.0.1:48996/play/Housefull_Movies/Housefull_Movies_800.m3u8
 #EXTINF:0 tvg-id="1280" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
 http://127.0.0.1:48996/play/packagerx_mpd1/Manoranjan_TV/4.m3u8
+#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies",Enterr 10
+http://127.0.0.1:48996/play/Enterr_10/Enterr_10_800.m3u8
 #EXTINF:0 tvg-id="1268" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
 http://127.0.0.1:48996/play/ABZY_Dhakad/ABZY_Dhakad_800.m3u8
 #EXTINF:0 tvg-id="1269" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
