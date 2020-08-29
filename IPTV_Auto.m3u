@@ -85,9 +85,9 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
-#EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
