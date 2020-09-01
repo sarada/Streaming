@@ -4,8 +4,10 @@
 
 
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_HD/4.m3u8
 #EXTINF:0 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_SAB_HD/4.m3u8
 #EXTINF:0 tvg-id="167" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://127.0.0.1:48996/play/Zee_TV_HD/Zee_TV_HD_800.m3u8
@@ -98,6 +100,7 @@ http://z5amshls.akamaized.net/livingfoodz/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="476" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in.m3u8
 http://127.0.0.1:48996/play/Sony_Max_HD/Sony_Max_HD_800.m3u8
 #EXTINF:0 tvg-id="165" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://127.0.0.1:48996/play/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
