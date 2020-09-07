@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 
 -----------------------------------------Entertainment-----------------------------------------
-
-
+#EXTINF:0,Test
+https://tamilcuisine.online/api/auth/tatasky@/red/str7.php?id=48143&e=.m3u8
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://127.0.0.1:48996/play/vendor/291/master.m3u8
 #EXTINF:0 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
@@ -112,6 +112,8 @@ http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC HD
 https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
+#EXTINF:0 tvg-id="1225" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
+http://127.0.0.1:48996/play/Click_Life/Click_Life_800.m3u8
 EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
@@ -139,6 +141,14 @@ http://127.0.0.1:48996/play/vendor/185/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_GoldHD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+#EXTINF:0 tvg-id="1154" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGold2.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Movies_OK_SD.m3u8" catchup-days=7,Star Gold 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Movies_OK_SD_BTS
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Movies_OK_SD_BTS/output/index.mpd?jct=dXqw_P9hPbH3p6te8lyDOQ&pxe=1599384988&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -349,13 +359,7 @@ http://127.0.0.1:48996/play/vendor/872/master.m3u8
 #EXTINF:0 tvg-id="554" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discoverykids.png",Discovery Kids 2
 http://127.0.0.1:48996/play/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
 #EXTINF:0 tvg-id="544" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Nick_Junior_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 #EXTINF:0 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
 http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
