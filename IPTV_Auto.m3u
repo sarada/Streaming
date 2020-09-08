@@ -393,10 +393,8 @@ http://127.0.0.1:48996/play/India_TV/India_TV_800.m3u8
 https://newsnation-i.akamaihd.net/hls/live/681878/newsnation24042020_new/master_1300k.m3u8|user-agent=KAIOS/2.0
 http://127.0.0.1:48996/play/News_Nation/News_Nation_800.m3u8
 #EXTINF:0 tvg-id="504" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
-http://z5amshls.akamaized.net/zeenews/tracks-v1a1/index.m3u8
 http://127.0.0.1:48996/play/vendor/504/master.m3u8
 #EXTINF:0 tvg-id="652" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
-http://z5amshls.akamaized.net/hindustan/tracks-v1a1/index.m3u8
 http://127.0.0.1:48996/play/vendor/652/master.m3u8
 #EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in.m3u8
@@ -427,7 +425,6 @@ http://127.0.0.1:48996/play/Times_Now_HD/Times_Now_HD_800.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 http://127.0.0.1:48996/play/NDTV_24x7/NDTV_24x7_800.m3u8
 #EXTINF:0 tvg-id="657" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-http://z5amshls.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
 http://127.0.0.1:48996/play/vendor/657/master.m3u8
 #EXTINF:0 tvg-id="143" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
 http://127.0.0.1:48996/play/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
