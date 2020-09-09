@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 
 -----------------------------------------Entertainment-----------------------------------------
-#EXTINF:0,Test
-https://tamilcuisine.online/api/auth/tatasky@/red/str7.php?id=48143&e=.m3u8
+
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://127.0.0.1:48996/play/vendor/291/master.m3u8
 #EXTINF:0 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
@@ -88,7 +87,7 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_1200.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
@@ -468,7 +467,7 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1142" tvg-name="Star Sports1" group-title="Sports" tvg-chno="455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_1.m3u8" catchup-days=7,Star Sports1
+EXTINF:0 tvg-id="1142" tvg-name="Star Sports1" group-title="Sports" tvg-chno="455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_1.m3u8" catchup-days=7,Star Sports1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -484,7 +483,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_1_
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD2_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1141" tvg-name="Star Sports2" group-title="Sports" tvg-chno="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_2.m3u8" catchup-days=7,Star Sports2
+EXTINF:0 tvg-id="1141" tvg-name="Star Sports2" group-title="Sports" tvg-chno="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_2.m3u8" catchup-days=7,Star Sports2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
