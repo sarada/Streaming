@@ -80,7 +80,7 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-http://127.0.0.1:48996/play/Travel_XP/Travel_XP_1200.m3u8
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
