@@ -83,10 +83,14 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
-EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
-https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26275262.mpd
+http://indtv.online/tatasky/26275262.mpd
+#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26358063.mpd
+http://indtv.online/tatasky/26358063.mpd
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
@@ -96,8 +100,11 @@ http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Channel_Hindi/master.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
-http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26269436.mpd
+http://indtv.online/tatasky/26269436.mpd
+,https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
+,http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Turbo/master.m3u8
