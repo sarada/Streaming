@@ -82,7 +82,7 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
-http://127.0.0.1:48996/play/Travel_XP/Travel_XP_1200.m3u8
+http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 EXTINF:0 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
@@ -231,7 +231,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_HD_
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_Premeir_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_Premeir_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
 #EXTINF:0 tvg-id="833" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/hbo.png",HBO HD
-http://127.0.0.1:48996/play/HBO_HD/HBO_HD_1200.m3u8
+http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0 tvg-id="762" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 http://127.0.0.1:48996/play/vendor/762/master.m3u8
 #EXTINF:0 tvg-id="151" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
@@ -330,7 +330,10 @@ https://v.aaho.tv/live/aahomusic.m3u8
 
 -----------------------------------------Kids-----------------------------------------
 
-
+#EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26270110.mpd
+http://indtv.online/tatasky/26285995.mpd
 #EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
 http://127.0.0.1:48996/play/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
 #EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://static.epg.best/in/Pogo.in.png",Pogo
@@ -357,12 +360,8 @@ http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
-#EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26270110.mpd
-http://indtv.online/tatasky/26285995.mpd
 #EXTINF:-1 tvg-id="26270110" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",Disney Junior
-https://delta13tatasky.akamaized.net/out/i/2423338.mpd
+http://indtv.online/tatasky/26270110.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
 
