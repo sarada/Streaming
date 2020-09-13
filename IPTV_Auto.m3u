@@ -339,8 +339,8 @@ https://v.aaho.tv/live/aahomusic.m3u8
 
 #EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26270110.mpd
-http://indtv.online/tatasky/26270110.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26285995.mpd
+http://indtv.online/tatasky/26285995.mpd
 #EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
 http://127.0.0.1:48996/play/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
 #EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://static.epg.best/in/Pogo.in.png",Pogo
