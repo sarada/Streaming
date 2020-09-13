@@ -367,7 +367,7 @@ http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
-#EXTINF:-1 tvg-id="26270110" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="26270110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyJunior.in.png" group-title="Kids",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26270110.mpd
 http://indtv.online/tatasky/26270110.mpd
