@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://indtv.online/guide.gz"
+#EXTM3U x-tvg-url="http://tatasky.indtv.online/guide.gz"
 
 -----------------------------------------Entertainment-----------------------------------------
 
@@ -85,12 +85,12 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 #EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26275262.mpd
-http://indtv.online/tatasky/26275262.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://tatasky.indtv.online/tatasky/26275262.mpd
+http://tatasky.indtv.online/tatasky/26275262.mpd
 #EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26358063.mpd
-http://indtv.online/tatasky/26358063.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://tatasky.indtv.online/tatasky/26358063.mpd
+http://tatasky.indtv.online/tatasky/26358063.mpd
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
@@ -98,8 +98,8 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
 #EXTINF:0 tvg-id="575" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discovery_639.png",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26269436.mpd
-http://indtv.online/tatasky/26269436.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://tatasky.indtv.online/tatasky/26269436.mpd
+http://tatasky.indtv.online/tatasky/26269436.mpd
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Channel_Hindi/master.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
@@ -339,8 +339,8 @@ https://v.aaho.tv/live/aahomusic.m3u8
 
 #EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26285995.mpd
-http://indtv.online/tatasky/26285995.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://tatasky.indtv.online/tatasky/26285995.mpd
+http://tatasky.indtv.online/tatasky/26285995.mpd
 #EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
 http://127.0.0.1:48996/play/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
 #EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://static.epg.best/in/Pogo.in.png",Pogo
@@ -369,8 +369,8 @@ http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 #EXTINF:-1 tvg-id="26270110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyJunior.in.png" group-title="Kids",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://indtv.online/tatasky/26270110.mpd
-http://indtv.online/tatasky/26270110.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://tatasky.indtv.online/tatasky/26270110.mpd
+http://tatasky.indtv.online/tatasky/26270110.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
 
