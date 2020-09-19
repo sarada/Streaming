@@ -519,6 +519,8 @@ http://127.0.0.1:48996/play/vendor/155/master.m3u8
 http://127.0.0.1:48996/play/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0 tvg-id="204" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
 http://127.0.0.1:48996/play/DD_Sports/DD_Sports_800.m3u8
+#EXTINF:-1 tvg-id="1529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports,MI TV
+http://127.0.0.1:48996/play/MI_TV/MI_TV_800.m3u8
 #EXTINF:0 tvg-id="1160" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -527,10 +529,6 @@ http://127.0.0.1:48996/play/DD_Sports/DD_Sports_800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Jio_Cricket_1_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Jio_Cricket_1_HD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1161" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png",Jio Cricket 2 HD
-http://127.0.0.1:48996/play/Jio_Cricket_2_HD/Jio_Cricket_2_HD_800.m3u8
-#EXTINF:0 tvg-id="1166" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png",Jio Cricket 3 HD
-http://127.0.0.1:48996/play/Jio_Cricket_3/Jio_Cricket_3_800.m3u8
 #EXTINF:0 tvg-id="1156" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
