@@ -84,15 +84,9 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 #EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26275262.mpd
-http://tatasky1.indtv.online/tatasky/26275262.mpd
-http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
+http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
 #EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26358063.mpd
-http://tatasky1.indtv.online/tatasky/26358063.mpd
-http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
+http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
