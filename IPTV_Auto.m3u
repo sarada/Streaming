@@ -465,19 +465,10 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 
 
 #EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280151.mpd
-http://tatasky1.indtv.online/tatasky/26280151.mpd
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
 #EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280298.mpd
-http://tatasky1.indtv.online/tatasky/26280298.mpd
 http://185.59.222.171:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
 #EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280283.mpd
-http://tatasky1.indtv.online/tatasky/26280283.mpd
 http://89.187.169.201:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
 #EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
