@@ -11,7 +11,11 @@ http://127.0.0.1:48996/play/vendor/471/master.m3u8
 http://127.0.0.1:48996/play/vendor/167/master.m3u8
 #EXTINF:0 tvg-id="472" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://127.0.0.1:48996/play/vendor/472/master.m3u8
-#EXTINF:0 tvg-id="1132" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
+#EXTINF:0 tvg-id="144" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=q%2bY3g5Ki0M%2bHftn%2byV%2b%2fdU14Z4g%3d
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
+EXTINF:0 tvg-id="1132" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -19,7 +23,7 @@ http://127.0.0.1:48996/play/vendor/472/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_PlusHD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
+EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -27,10 +31,6 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Bharat_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="144" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=q%2bY3g5Ki0M%2bHftn%2byV%2b%2fdU14Z4g%3d
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
 #EXTINF:0 tvg-id="279" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -83,11 +83,11 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
-#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26275262.mpd
 http://tatasky1.indtv.online/tatasky/26275262.mpd
-#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26358063.mpd
 http://tatasky1.indtv.online/tatasky/26358063.mpd
@@ -131,7 +131,14 @@ http://127.0.0.1:48996/play/vendor/476/master.m3u8
 http://127.0.0.1:48996/play/vendor/165/master.m3u8
 #EXTINF:0 tvg-id="185" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://127.0.0.1:48996/play/vendor/185/master.m3u8
-#EXTINF:0 tvg-id="1133" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Star%20Gold.jpg",Star Gold HD
+#EXTINF:0 tvg-id="482" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=kDDuaRYMluIZgvBF%2bOaY3z97df0%3d
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
+#EXTINF:0 tvg-id="1450" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex
+http://127.0.0.1:48996/play/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
+EXTINF:0 tvg-id="1133" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Star%20Gold.jpg",Star Gold HD
+http://185.246.210.50:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -139,7 +146,7 @@ http://127.0.0.1:48996/play/vendor/185/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_GoldHD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1154" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGold2.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Movies_OK_SD.m3u8" catchup-days=7,Star Gold 2
+EXTINF:0 tvg-id="1154" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGold2.png",Star Gold 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -147,20 +154,14 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Movies_OK_SD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Movies_OK_SD_BTS/output/index.mpd?jct=dXqw_P9hPbH3p6te8lyDOQ&pxe=1599384988&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
+EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Gold_Select_HD_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="482" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=kDDuaRYMluIZgvBF%2bOaY3z97df0%3d
-https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
-#EXTINF:0 tvg-id="1450" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex
-http://127.0.0.1:48996/play/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8 
+http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS 
 #EXTINF:0 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
 http://127.0.0.1:48996/play/vendor/483/master.m3u8
 #EXTINF:0 tvg-id="182" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
@@ -202,7 +203,7 @@ http://three.somee.com/web.php?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&i=_20&e
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
 http://slcknecdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABZY_Dhakad/ABZY_Dhakad_800-1598284794000.ts
-#EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
+EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -210,7 +211,7 @@ http://slcknecdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABZY_Dhakad/ABZY_Dha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
+EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -218,7 +219,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_Select_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
+EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -226,7 +227,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Se
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_HD_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
+EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -334,7 +335,7 @@ https://v.aaho.tv/live/aahomusic.m3u8
 
 -----------------------------------------Kids-----------------------------------------
 
-#EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
+EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26285995.mpd
 http://tatasky1.indtv.online/tatasky/26285995.mpd
@@ -463,18 +464,12 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 
 
 #EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280151.mpd
-http://tatasky1.indtv.online/tatasky/26280151.mpd
-#EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280298.mpd
-http://tatasky1.indtv.online/tatasky/26280298.mpd
-#EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tatasky1.indtv.online/tatasky/26280283.mpd
-http://tatasky1.indtv.online/tatasky/26280283.mpd
-#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+http://iptv.mirrorace.net/vid.php?c=Star
+EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
+http://185.59.222.171:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
+EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
+http://89.187.169.201:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_P0ReeAm8SJ0T_Kmt4MuHwA%3D%3D%2C1600590967.5949028435
+EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -482,7 +477,7 @@ http://tatasky1.indtv.online/tatasky/26280283.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_Select_HD_1_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?jct=US4UVDW9X2OZ6EzsKjmbYg&pxe=1596773947&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
+EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
