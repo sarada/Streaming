@@ -298,6 +298,7 @@ http://202.163.117.6:9981/stream/channelid/349051393
 
 
 #EXTINF:0 tvg-id="258" group-title="News" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ndtvindia.jpg",NDTV India
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/ndtv_india.smil/chunklist_b512000.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@5.m3u8
 http://127.0.0.1:48996/play/NDTV_India/NDTV_India_800.m3u8
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
@@ -350,7 +351,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
 EXTINF:0 tvg-id="876" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png",Times Now World
 http://127.0.0.1:48996/play/Times_Now_HD/Times_Now_HD_800.m3u8
 #EXTINF:0 tvg-id="255" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterp_480p@3.m3u8
 http://127.0.0.1:48996/play/NDTV_24x7/NDTV_24x7_800.m3u8
 #EXTINF:0 tvg-id="657" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
 http://three.somee.com/web.php?c=zeebusiness
@@ -359,7 +360,7 @@ http://z5amshls.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="143" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
 http://127.0.0.1:48996/play/CNBC_Tv18_Prime_HD/CNBC_Tv18_Prime_HD_800.m3u8
 #EXTINF:0 tvg-id="259" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterp_480p@3.m3u8
 http://127.0.0.1:48996/play/NDTV_Profit/NDTV_Profit_800.m3u8
 #EXTINF:0 tvg-id="190" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8?sd=10&rebase=on
@@ -391,14 +392,6 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1142" tvg-name="Star Sports1" group-title="Sports" tvg-chno="455" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_1.m3u8" catchup-days=7,Star Sports1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_1_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd?jct=WvPt3n7NTEDjZy1DLT-DGg&pxe=1598582971&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -407,14 +400,6 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_1_
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD2_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1141" tvg-name="Star Sports2" group-title="Sports" tvg-chno="457" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Star_Sports_2.m3u8" catchup-days=7,Star Sports2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_2_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?jct=WvPt3n7NTEDjZy1DLT-DGg&pxe=1598582971&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
