@@ -90,12 +90,12 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26275262.mpd
-#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://tataskytv.indtv.online/tatasky/26275262.mpd
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26358063.mpd
-#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 http://tataskytv.indtv.online/tatasky/26358063.mpd
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
@@ -103,13 +103,10 @@ http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26269436.mpd
 #EXTINF:0 tvg-id="575" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discovery_639.png",Discovery Channel
-http://tataskytv.indtv.online/tatasky/26269436.mpd
-http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_DISCOVERY_WORLD_HD-in/index.m3u8?token=
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Channel_Hindi/master.m3u8
+http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_DISCOVERY_WORLD_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p/index.m3u8
 http://127.0.0.1:48996/play/Discovery_Science/Discovery_Science_800.m3u8
@@ -130,7 +127,7 @@ http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
 http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
 #EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
 https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment",Living Foodz
+EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment",Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/playlist.m3u8
 
 
@@ -346,14 +343,14 @@ http://127.0.0.1:48996/play/vendor/589/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Music_India_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Music_India_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="Music",Dil Se
-http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_DIL_DE_HD-in/index.m3u8?token=
 https://live.hungama.com/linear/dil-se/playlist.m3u8
+http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_DIL_DE_HD-in/index.m3u8?token=
 #EXTINF:0 group-title="Music" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png",Pop पटाखा
-http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_POP_PATAKA-in/index.m3u8?token=
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_POP_PATAKA-in/index.m3u8?token=
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
-http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_KADAK_HITS-in/index.m3u8?token=
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_HUNGAMA_KADAK_HITS-in/index.m3u8?token=
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Aaho.jpg" group-title="Music",Aaho! Music
 https://v.aaho.tv/live/aahomusic.m3u8
 
@@ -390,7 +387,7 @@ http://127.0.0.1:48996/play/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
 http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26270110.mpd
-#EXTINF:-1 tvg-id="26270110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyJunior.in.png" group-title="Kids",Disney Junior
+EXTINF:-1 tvg-id="26270110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyJunior.in.png" group-title="Kids",Disney Junior
 http://tataskytv.indtv.online/tatasky/26270110.mpd
 #EXTINF:0 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
 http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
@@ -497,14 +494,14 @@ http://18.141.163.64:7002/live/streamindia.m3u8
 http://3.112.107.140:7002/live/streamindia.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="Sports",IPL English
 http://18.181.239.81:7002/live/streamindia.m3u8
-EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
+#EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+#KODIPROP:inputstream.adaptive.license_key=https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd?partner=jio-stb&hdnea=st=1602429803~exp=1602430403~acl=/dash/live/2002464/sshd1livetvwv/*~data=ip=010599a5802029231049b2051a6f0153866363e767e0dac66cc0f333688d93aeb31fec585e550baa07a423041db9-userid=0ea409e331522ec0b4eefea490053e44cc967f8b9bd59d43a21862d896b14de1~hmac=4c9e3034f4f00ef30cc6c40c2ac0b4b81af5b3b6685eab7fefe1e94461ad8eef&hotstarplay2
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd|Referer="https://www.hotstar.com/"
 EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -521,7 +518,8 @@ EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-lo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_Hindi_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+http://103.214.202.218:8081/live/select1/chunks.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -529,7 +527,8 @@ EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_Select_HD_1_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
+#EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
