@@ -173,13 +173,7 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Sele
 #EXTINF:0 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
 http://127.0.0.1:48996/play/vendor/483/master.m3u8
 #EXTINF:0 tvg-id="182" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/B4U_Movies_BTS
-http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd?jct=ZoI8SSbOIPgJPgjewdIBRg&pxe=1598404098&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+http://127.0.0.1:48996/play/B4U_Movies/B4U_Movies_800.m3u8
 #EXTINF:0 tvg-id="1295" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
 http://127.0.0.1:48996/play/B4U_Kadak/B4U_Kadak_800.m3u8
 #EXTINF:0 tvg-id="1276" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png",Box Cinema
@@ -247,24 +241,15 @@ http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_Pre
 http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0 tvg-id="762" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 http://127.0.0.1:48996/play/vendor/762/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26272365.mpd
 #EXTINF:0 tvg-id="151" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
-http://tataskytv.indtv.online/tatasky/26272365.mpd
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 http://127.0.0.1:48996/play/Movies_Now_HD/Movies_Now_HD_800.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26358009.mpd
 #EXTINF:0 tvg-id="877" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png",MNX HD
-http://tataskytv.indtv.online/tatasky/26358009.mpd
-http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MNX_HD-in/index.m3u8?token=
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MNX_HD-in/index.m3u8?token=
 http://127.0.0.1:48996/play/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26274710.mpd
-#EXTINF:0 tvg-id="477" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/mnplushd.jpg",MN+ HD
-http://tataskytv.indtv.online/tatasky/26274710.mpd
+EXTINF:0 tvg-id="477" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/mnplushd.jpg",MN+ HD
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="478" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",Romedy Now HD
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -359,7 +344,7 @@ https://v.aaho.tv/live/aahomusic.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26285995.mpd
-#EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
+EXTINF:-1 tvg-id="26285995" group-title="Kids" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/DISNEY-CHANNEL.png", Disney Channel
 http://tataskytv.indtv.online/tatasky/26285995.mpd
 EXTINF:-1 group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://zer0live.hjkm.info:11990/neptune/hungamahindi/playlist.m3u8
@@ -488,13 +473,9 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 -----------------------------------------Sports-----------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="Sports",IPL Hindi
-http://18.141.163.64:7002/live/streamindia.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="Sports",IPL Hindi
-http://3.112.107.140:7002/live/streamindia.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCeqtyPppXLg5a7dSXdReHXVQRtIU7hqXaMQ&usqp=CAU" group-title="Sports",IPL English
-http://18.181.239.81:7002/live/streamindia.m3u8
+
 #EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
+http://103.70.140.27:8080/hls/cm_sports02.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=jiotv
@@ -518,7 +499,7 @@ EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-lo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_Hindi_BTS
 http://ssrigcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
 http://103.214.202.218:8081/live/select1/chunks.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
