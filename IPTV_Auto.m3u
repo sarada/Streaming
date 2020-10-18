@@ -1,29 +1,6 @@
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 
 -----------------------------------------Entertainment-----------------------------------------
-token=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistani Channel",HUM TV
-http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistani Channel",HUM TV
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/humworld-pa/index.m3u8?token=
-http://51.178.220.156/?watch=EX/humworld-pa&token=RED_sxESFa_qgXVGW1MtDfh4Ew==,1602807604.3638421068&t=0&s=4&p=1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png" group-title="Pakistani Channel",ARY Digital
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/arydigital-pa/index.m3u8?token=
-https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="Pakistani Channel",ARY Zindagi
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/aryzindagi-pa/index.m3u8?token=
-https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/HUM_SITARAY-pa/index.m3u8?token=
-https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Pakistani Channel",Hum Masala
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/NL/Hummasala-uk/index.m3u8?token=
-https://ott.bingebd.com/live/ngrp:hum_masala_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Geo_Entertainment.png/56px-Geo_Entertainment.png" group-title="Pakistani Channel",Geo Entertainment
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/geoentertainment-pa/index.m3u8?token=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Pakistani Channel",Geo TV
-http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/geokahani-pa/index.m3u8?token=
 
 
 
@@ -385,7 +362,7 @@ http://127.0.0.1:48996/play/Nick_Junior/Nick_Junior_800.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/26270110.mpd
 EXTINF:-1 tvg-id="26270110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyJunior.in.png" group-title="Kids",Disney Junior
 http://tataskytv.indtv.online/tatasky/26270110.mpd
-#EXTINF:0 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
+EXTINF:0 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
 http://127.0.0.1:48996/play/packagerx_mpd4/Jio_KIDS/4.m3u8
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Kids",Big Magic
 http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
