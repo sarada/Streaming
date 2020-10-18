@@ -1,6 +1,30 @@
 #EXTM3U x-tvg-url="http://indtv.online/guide.gz"
 
 -----------------------------------------Entertainment-----------------------------------------
+token=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistani Channel",HUM TV
+http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistani Channel",HUM TV
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/humworld-pa/index.m3u8?token=
+http://51.178.220.156/?watch=EX/humworld-pa&token=RED_sxESFa_qgXVGW1MtDfh4Ew==,1602807604.3638421068&t=0&s=4&p=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/ARY_Digital_Logo_2.png/150px-ARY_Digital_Logo_2.png" group-title="Pakistani Channel",ARY Digital
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/arydigital-pa/index.m3u8?token=
+https://ott.bingebd.com/live/ngrp:ary_asia_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="Pakistani Channel",ARY Zindagi
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/aryzindagi-pa/index.m3u8?token=
+https://ott.bingebd.com/live/ngrp:ary_zindigi_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="Pakistani Channel",Hum Sitery
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/HUM_SITARAY-pa/index.m3u8?token=
+https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Pakistani Channel",Hum Masala
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/NL/Hummasala-uk/index.m3u8?token=
+https://ott.bingebd.com/live/ngrp:hum_masala_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Geo_Entertainment.png/56px-Geo_Entertainment.png" group-title="Pakistani Channel",Geo Entertainment
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/geoentertainment-pa/index.m3u8?token=
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png" group-title="Pakistani Channel",Geo TV
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/EX/geokahani-pa/index.m3u8?token=
+
 
 
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
@@ -24,8 +48,26 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd|user-agent="
 http://127.0.0.1:48996/play/Rishtey/Rishtey_800.m3u8
 #EXTINF:0 tvg-id="1132" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48109
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_PlusHD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_PlusHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
 http://dx3.gcdn.co/hindi-STARBHARATindia/index.m3u8
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48104
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Bharat_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="473" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://127.0.0.1:48996/play/vendor/473/master.m3u8
 #EXTINF:0 tvg-id="474" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
@@ -63,6 +105,15 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
+#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48149
+http://www.getvpn.us/index.php/http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48127
+https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist.m3u8
+http://www.getvpn.us/index.php/http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
@@ -86,9 +137,11 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
 http://127.0.0.1:48996/play/TLC_Hindi/TLC_Hindi_800.m3u8
 #EXTINF:0 tvg-id="1225" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
 http://127.0.0.1:48996/play/Click_Life/Click_Life_800.m3u8
-#EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
+EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
 https://ott.bingebd.com/live/ngrp:fyi_hd_all/chunklist.m3u8
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
+#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/FOXLife.in.png",FOX Life
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
 #EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
@@ -115,8 +168,35 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd|user-agen
 http://127.0.0.1:48996/play/Rishtey_Cineplex/Rishtey_Cineplex_800.m3u8
 #EXTINF:0 tvg-id="1133" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Star%20Gold.jpg",Star Gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48107
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_GoldHD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_GoldHD_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+EXTINF:0 tvg-id="1154" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGold2.png",Star Gold 2
+https://ott.bingebd.com:443/live/ngrp:movies_ok_all/chunklist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Movies_OK_SD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Movies_OK_SD_BTS/output/index.mpd?jct=dXqw_P9hPbH3p6te8lyDOQ&pxe=1599384988&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48108
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Gold_Select_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
 #EXTINF:0 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in.m3u8
 http://127.0.0.1:48996/play/vendor/483/master.m3u8
@@ -154,20 +234,61 @@ http://three.somee.com/web.php?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&i=_20&e
 EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index_18.m3u8
 http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
+http://slcknecdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABZY_Dhakad/ABZY_Dhakad_800-1598284794000.ts
+#EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/47859
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
+#EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/47861
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_Select_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
+#EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/47858
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
+#EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/47860
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_Premeir_HD_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_Premeir_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
 #EXTINF:0 tvg-id="833" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/hbo.png",HBO HD
 http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0 tvg-id="762" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 http://127.0.0.1:48996/play/Sony_Pix_HD/Sony_Pix_HD_800.m3u8
 http://127.0.0.1:48996/play/vendor/762/master.m3u8
 #EXTINF:0 tvg-id="151" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://127.0.0.1:48996/play/Movies_Now_HD/Movies_Now_HD_800.m3u8
 #EXTINF:0 tvg-id="877" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MNX_HD-in/index.m3u8?token=
 http://127.0.0.1:48996/play/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
-EXTINF:0 tvg-id="477" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/mnplushd.jpg",MN+ HD
+#EXTINF:0 tvg-id="477" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/mnplushd.jpg",MN+ HD
 http://www.getvpn.us/index.php/http://89.187.169.202:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="478" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",Romedy Now HD
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
@@ -204,8 +325,8 @@ http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/MTV_Beats_HD_B
 #EXTINF:0 tvg-id="591" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",E 24
 http://127.0.0.1:48996/play/E_24/E_24_800.m3u8
 #EXTINF:0 tvg-id="592" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Zoom.jpg",ZOOM
-https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:0 tvg-id="584" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
 http://127.0.0.1:48996/play/Mastiii/Mastiii_800.m3u8
 #EXTINF:0 tvg-id="585" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
@@ -254,6 +375,7 @@ http://127.0.0.1:48996/play/Nick_Hindi/Nick_Hindi_800.m3u8
 #EXTINF:0 tvg-id="1226" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NickHDPlus.png",Nick HD+
 http://127.0.0.1:48996/play/Nick_HD_Plus/Nick_HD_Plus_800.m3u8
 #EXTINF:0 tvg-id="872" group-title="Kids" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png",Sony Yay
+http://127.0.0.1:48996/play/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8
 http://127.0.0.1:48996/play/vendor/872/master.m3u8
 #EXTINF:0 tvg-id="554" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/discoverykids.png",Discovery Kids 2
 http://127.0.0.1:48996/play/Discovery_Kids_2/Discovery_Kids_2_800.m3u8
@@ -369,7 +491,56 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 -----------------------------------------Sports-----------------------------------------
 
 
-
+#EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48106
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd?partner=jio-stb&hdnea=st=1602429803~exp=1602430403~acl=/dash/live/2002464/sshd1livetvwv/*~data=ip=010599a5802029231049b2051a6f0153866363e767e0dac66cc0f333688d93aeb31fec585e550baa07a423041db9-userid=0ea409e331522ec0b4eefea490053e44cc967f8b9bd59d43a21862d896b14de1~hmac=4c9e3034f4f00ef30cc6c40c2ac0b4b81af5b3b6685eab7fefe1e94461ad8eef&hotstarplay2
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd|Referer="https://www.hotstar.com/"
+#EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48103
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD2_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+#EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48105
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_Hindi_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48110
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_Select_HD_1_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
+#EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
+http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+http://t100v.com/paid/553902/594424/48111
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=jiotv
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_Select_HD_2_BTS
+http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="1425" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/1sports.png",1Sports
 http://127.0.0.1:48996/play/packagerx_mpd1/1Sports/master.m3u8
 #EXTINF:0 tvg-id="162" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
