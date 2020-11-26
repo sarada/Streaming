@@ -74,15 +74,13 @@ http://127.0.0.1:48996/play/DD_bharati/DD_bharati_800.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
-#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
+EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48149
 http://www.getvpn.us/index.php/http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
-#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
+EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48127
-https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist.m3u8
-http://www.getvpn.us/index.php/http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
@@ -109,11 +107,12 @@ http://127.0.0.1:48996/play/Click_Life/Click_Life_800.m3u8
 EXTINF:0 tvg-id="254" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/fyitv.png",FYI TV18 HD
 https://ott.bingebd.com/live/ngrp:fyi_hd_all/chunklist.m3u8
 http://127.0.0.1:48996/play/FYI_TV18/FYI_TV18_800.m3u8
-#EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/FOXLife.in.png",FOX Life
+EXTINF:0 tvg-id="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/FOXLife.in.png",FOX Life
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 http://127.0.0.1:48996/play/Food_Food/Food_Food_800.m3u8
-#EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
+EXTINF:0 tvg-id="560" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NDTVGoodTimes.in.png",GOOD TiMES
 https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
 EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment",Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/playlist.m3u8
@@ -173,13 +172,13 @@ http://127.0.0.1:48996/play/Zee_Classic/Zee_Classic_800.m3u8
 http://three.somee.com/web.php?c=out/v1/74df8b02f8ab47909df9a9f3189a1012&i=_20&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
-#EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
+EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=
-#EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
+EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=
-#EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
+EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
-#EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
+EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=
 #EXTINF:0 tvg-id="833" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/hbo.png",HBO HD
 http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
@@ -238,7 +237,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Aaho.jpg" group-title="Music",Aaho! Music
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Aaho.jpg" group-title="Music",Aaho! Music
 https://v.aaho.tv/live/aahomusic.m3u8
 
 
@@ -277,7 +276,7 @@ http://202.163.117.6:9981/stream/channelid/349051393
 
 
 #EXTINF:0 tvg-id="258" group-title="News" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ndtvindia.jpg",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@5.m3u8
 https://load.airtelxstream.in/ndtvindia/smil:common.smil/chunklist.m3u8
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/ndtv_india.smil/chunklist_b512000.m3u8
 http://127.0.0.1:48996/play/NDTV_India/NDTV_India_800.m3u8
@@ -286,7 +285,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aa
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 http://127.0.0.1:48996/play/Aaj_Tak/Aaj_Tak_800.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 http://127.0.0.1:48996/play/ABP_News_India/ABP_News_India_800.m3u8
 #EXTINF:0 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -298,17 +297,15 @@ http://127.0.0.1:48996/play/India_TV/India_TV_800.m3u8
 https://newsnation-i.akamaihd.net/hls/live/681878/newsnation24042020_new/master_1300k.m3u8|user-agent=KAIOS/2.0
 http://127.0.0.1:48996/play/News_Nation/News_Nation_800.m3u8
 #EXTINF:0 tvg-id="504" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+http://cv.khushitv.xyz/channels.php?c=zeenews
 https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
 http://z5amshls.akamaized.net/zeenews/playlist.m3u8
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeenews/index.m3u8
 http://127.0.0.1:48996/play/vendor/504/master.m3u8
 http://three.somee.com/web.php?c=zeenews
-https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="652" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png",Zee Hindustan
+http://cv.khushitv.xyz/channels.php?c=hindustan
 https://load.airtelxstream.in/zeehindustan/smil:common.smil/chunklist.m3u8
-https://load.airtelxstream.in/zeenews/smil:common.smil/chunklist.m3u8
 http://z5amshls.akamaized.net/hindustan/playlist.m3u8
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/hindustan/index.m3u8
 http://127.0.0.1:48996/play/vendor/652/master.m3u8
 http://three.somee.com/web.php?c=hindustan
 #EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
@@ -341,9 +338,9 @@ http://127.0.0.1:48996/play/Times_Now_HD/Times_Now_HD_800.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@3.m3u8
 http://127.0.0.1:48996/play/NDTV_24x7/NDTV_24x7_800.m3u8
 #EXTINF:0 tvg-id="657" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+http://cv.khushitv.xyz/channels.php?c=zeebusiness
 https://load.airtelxstream.in/zeebusiness/smil:common.smil/chunklist.m3u8
 http://z5amshls.akamaized.net/zeebusiness/playlist.m3u8
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebusiness/index.m3u8
 http://127.0.0.1:48996/play/vendor/657/master.m3u8
 http://three.somee.com/web.php?c=zeebusiness
 #EXTINF:0 tvg-id="143" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
@@ -375,6 +372,7 @@ http://127.0.0.1:48996/play/Republic_TV/Republic_TV_800.m3u8
 
 
 #EXTINF:0 tvg-id="159" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
+http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48106
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -385,6 +383,7 @@ http://t100v.com/paid/553902/594424/48106
 #KODIPROP:inputstream.adaptive.license_key=https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd?partner=jio-stb&hdnea=st=1602429803~exp=1602430403~acl=/dash/live/2002464/sshd1livetvwv/*~data=ip=010599a5802029231049b2051a6f0153866363e767e0dac66cc0f333688d93aeb31fec585e550baa07a423041db9-userid=0ea409e331522ec0b4eefea490053e44cc967f8b9bd59d43a21862d896b14de1~hmac=4c9e3034f4f00ef30cc6c40c2ac0b4b81af5b3b6685eab7fefe1e94461ad8eef&hotstarplay2
 https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv/master.mpd|Referer="https://www.hotstar.com/"
 #EXTINF:0 tvg-id="160" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
+http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48103
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -395,6 +394,7 @@ http://t100v.com/paid/553902/594424/48103
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD2_BTS
 http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
 #EXTINF:0 tvg-id="362" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
+http://dx3.gcdn.co/STARSPORTS3/index.m3u8
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48105
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -404,7 +404,7 @@ http://t100v.com/paid/553902/594424/48105
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_HD1_Hindi_BTS
 http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
+EXTINF:0 tvg-id="460" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48110
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -414,7 +414,7 @@ http://t100v.com/paid/553902/594424/48110
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Sports_Select_HD_1_BTS
 http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd?jct=qiwUprV4akYQ6zwrPCR1KQ&pxe=1596939243&st=9p-O_v1qIyd6E-rf8_gEOQ|User-Agent=KAIOS
-#EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
+EXTINF:0 tvg-id="461" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
 http://www.getvpn.us/index.php/http://185.246.210.52:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 http://t100v.com/paid/553902/594424/48111
 #KODIPROP:inputstreamaddon=inputstream.adaptive
