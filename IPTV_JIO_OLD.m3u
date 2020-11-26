@@ -201,7 +201,7 @@ http://127.0.0.1:48996/play/Mastiii/Mastiii_800.m3u8
 http://127.0.0.1:48996/play/Zing/Zing_800.m3u8
 #EXTINF:0 tvg-id="587" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/9xm.png",9XM
 http://127.0.0.1:48996/play/9XM/9XM_800.m3u8
-#EXTINF:0 tvg-id="441" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
+EXTINF:0 tvg-id="441" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
 http://127.0.0.1:48996/play/9x_Jhakaas/9x_Jhakaas_800.m3u8
 #EXTINF:0 tvg-id="440" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/9xjalwa.png",9X Jalwa
 http://127.0.0.1:48996/play/9X_Jalwa/9X_Jalwa_800.m3u8
