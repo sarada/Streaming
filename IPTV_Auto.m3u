@@ -97,15 +97,6 @@ http://127.0.0.1:48996/play/vendor/580/master.m3u8
 
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://127.0.0.1:48996/play/Travel_XP/Travel_XP_800.m3u8
-#EXTINF:0 tvg-id="26275262" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeo.jpg",Nat Geo
-http://185.246.210.56:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/48149
-http://185.246.210.56:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-#EXTINF:0 tvg-id="26358063" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/NatGeoWild.jpg",Nat Geo Wild
-http://185.246.210.56:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/48127
-https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist.m3u8
-http://185.246.210.56:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://127.0.0.1:48996/play/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_800.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
@@ -227,46 +218,6 @@ EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index_18.m3u8
 http://three.somee.com/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&i=_20&e=.m3u8
 http://slcknecdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABZY_Dhakad/ABZY_Dhakad_800-1598284794000.ts
-#EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
-http://185.246.210.56:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/47859
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_HD_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1110" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Starmoviesselecthd.png" group-title="Movies",Star Movies Select HD
-http://185.246.210.56:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/47861
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_Movies_Select_HD_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1105" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starworld.png" group-title="Movies",Star World HD
-http://185.246.210.56:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/47858
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_HD_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
-#EXTINF:0 tvg-id="1107" tvg-logo="http://sgdccdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png" group-title="Movies",Star World Premeir HD
-http://185.246.210.56:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/index.m3u8?token=RED_zpv7sKofoYSXw2vsX-59PQ==,1603207043.0110307146
-http://t100v.com/paid/553902/594424/47860
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=jiotv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=jiotv
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:48996/wv/Star_World_Premeir_HD_BTS
-http://sklktcdnems06.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/Star_World_Premeir_HD_BTS/output/index.mpd?jct=n_IltsKdkZbcQX5GXPb80w&pxe=2535984944&st=c6f405eb515119b21f6fdedb4bc024dc|User-Agent=KAIOS
 #EXTINF:0 tvg-id="833" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/hbo.png",HBO HD
 http://127.0.0.1:48996/play/HBO_HD/HBO_HD_800.m3u8
 #EXTINF:0 tvg-id="762" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
