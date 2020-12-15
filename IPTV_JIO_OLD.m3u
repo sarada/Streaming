@@ -4,9 +4,11 @@
 
 
 #EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://127.0.0.1:48996/play/Sony_HD/Sony_HD_800.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_HD/4.m3u8
 #EXTINF:0 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://127.0.0.1:48996/play/Sony_SAB_HD/Sony_SAB_HD_800.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_SAB_HD/4.m3u8
 #EXTINF:0 tvg-id="167" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
