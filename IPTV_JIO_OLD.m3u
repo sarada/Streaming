@@ -124,7 +124,7 @@ https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v
 http://127.0.0.1:48996/play/Zee_Action/Zee_Action_800.m3u8
 #EXTINF:0 tvg-id="415" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 http://127.0.0.1:48996/play/Zee_Anmol_Cinema/Zee_Anmol_Cinema_800.m3u8
-#EXTINF:0 tvg-id="487" group-title="Movies" tvg-logo="http://139.59.5.164/stm-v3/api/logo/zee-bollywood_163.png",Zee Bollywood
+#EXTINF:0 tvg-id="487" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ZeeBollywood.png",Zee Bollywood
 http://127.0.0.1:48996/play/Zee_Classic/Zee_Classic_800.m3u8
 #EXTINF:0 tvg-id="182" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
 http://127.0.0.1:48996/play/B4U_Movies/B4U_Movies_800.m3u8
@@ -371,6 +371,8 @@ http://127.0.0.1:48996/play/Six_HD/Six_HD_800.m3u8
 http://127.0.0.1:48996/play/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0 tvg-id="204" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
 http://127.0.0.1:48996/play/DD_Sports/DD_Sports_800.m3u8
+#EXTINF:0 tvg-id="1160" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports
+http://127.0.0.1:48996/play/Jio_Sports/Jio_Sports_800.m3u8
 #EXTINF:0 tvg-id="1160" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
 http://127.0.0.1:48996/play/Jio_Cricket_1_HD/Jio_Cricket_1_HD_800.m3u8
 EXTINF:0 tvg-id="1161" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png",Jio Cricket 2 HD
