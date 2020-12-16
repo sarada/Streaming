@@ -30,9 +30,9 @@ http://127.0.0.1:48996/play/Sony_Pal/Sony_Pal_800.m3u8
 #EXTINF:0 tvg-id="728" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
 http://127.0.0.1:48996/play/Zee_Salaam/Zee_Salaam_800.m3u8
 #EXTINF:-1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Entertainment",The Q India
-https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
+http://127.0.0.1:48996/play/TheQIndia/TheQIndia_800.m3u8
 #EXTINF:0 tvg-id="481" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic HD
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+http://127.0.0.1:48996/play//Epic_HD/Epic_HD_800.m3u8
 #EXTINF:0 tvg-id="1157" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Comedy_Central.jpg",Comedy Central HD
 http://127.0.0.1:48996/play/Comedy_Central_HD/Comedy_Central_HD_800.m3u8
 #EXTINF:0 tvg-id="1158" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Colors_Infinity.jpg",Colors Infinity HD
