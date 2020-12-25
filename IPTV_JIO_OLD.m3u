@@ -2,8 +2,7 @@
 
 -----------------------------------------Entertainment-----------------------------------------
 
-
-#EXTINF:0 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" catchup="default" catchup-source="http://127.0.0.1:48996/catchup/play/${start}/Sony_HD.m3u8" catchup-days=6 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://127.0.0.1:48996/play/Sony_HD/Sony_HD_800.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
 http://127.0.0.1:48996/play/packagerx_mpd3/Sony_HD/4.m3u8
