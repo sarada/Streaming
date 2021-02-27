@@ -22,13 +22,13 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd|user-agent=
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27556062.mpd
-#EXTINF:0 tvg-id="1132" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
+EXTINF:0 tvg-id="1132" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/Star_Plus_HD.png",Star Plus HD
 http://tv.urix.xdns.pro:80/rXZMLJ4uabVj958/GGM6XC490/6248
 http://185.246.210.47:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 http://tataskytv.indtv.me/tatasky/27556062.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27555192.mpd
-#EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
+EXTINF:0 tvg-id="931" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/starbharat.jpg",Star Bharat HD
 http://tv.urix.xdns.pro:80/rXZMLJ4uabVj958/GGM6XC490/10179
 http://185.246.210.47:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 http://tataskytv.indtv.me/tatasky/27555192.mpd
@@ -64,13 +64,13 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-ddbharati
 
 
 
-#EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
+EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/travelxphd/playlist.m3u8
 http://185.246.210.47:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 http://tataskytv.indtv.me/tatasky/27558889.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27554348.mpd
-#EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
+EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/sonyearthhd/playlist.m3u8
 http://185.246.210.47:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 http://tataskytv.indtv.me/tatasky/27554348.mpd
@@ -82,7 +82,7 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-#EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
+EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
 http://185.246.210.47:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 http://127.0.0.1:48996/play/History_18_Hindi/History_18_Hindi_800.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC HD
@@ -111,11 +111,11 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd|user-agen
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://botallen.live/h/wv/1260000040?signature=887c266e3d1a9be2f91e840d056fe2a8cd0c94d6&unique=d9d509b5389fb331d4f225094fe6cc52
-#EXTINF:0 tvg-id="tatasky_632" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Star%20Gold.jpg",Star Gold HD
+EXTINF:0 tvg-id="tatasky_632" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Star%20Gold.jpg",Star Gold HD
 http://tv.urix.xdns.pro:80/rXZMLJ4uabVj958/GGM6XC490/10161
 http://185.246.210.47:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
-#EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
+EXTINF:0 tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarGoldSelect.jpg" group-title="Movies",Star Gold Select HD
 http://tv.urix.xdns.pro:80/rXZMLJ4uabVj958/GGM6XC490/6228
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
@@ -180,22 +180,22 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.me/tatasky/27544880.mpd
-#EXTINF:0 tvg-id="tatasky_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
+EXTINF:0 tvg-id="tatasky_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/disneychannelhindi/chunks.m3u8|tokenUrl:/4|Referer:https://mhdtvworld.live
 http://182.176.93.225:8000/play/a01m
 http://tataskytv.indtv.me/tatasky/27544880.mpd
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/disneychannelhindi/playlist.m3u8
 http://185.246.210.47:2200/R-EX/HINDI_DISNEY_SD-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
-#EXTINF:0 tvg-id="tatasky_345" group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
+EXTINF:0 tvg-id="tatasky_345" group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/hungamahindi/playlist.m3u8
 http://182.176.93.225:8000/play/a01l
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/hungamahindi/playlist.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/909
-#EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
+EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/cartoonnetworkhindi/playlist.m3u8
 https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
 http://indtv.me/jiotvc/Cartoon_Network_Hindi.m3u8
-#EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://static.epg.best/in/Pogo.in.png",Pogo
+EXTINF:0 tvg-id="559" group-title="Kids" tvg-logo="https://static.epg.best/in/Pogo.in.png",Pogo
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8
 http://182.176.93.225:8000/play/a01p
 http://185.246.210.47:2200/R-EX/HINDI_POGO_KIDS-in/index.m3u8?token=RED_JS6IMHBy787kA_kbrV8x4g==,1612801097.5404530093
@@ -204,7 +204,7 @@ http://indtv.me/jiotvc/Pogo_Hindi.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODMzNjMwMiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJzb25pY19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=VcX3eSm5D4yC4meoEqT8wwlR4Qs%3d
 #EXTINF:0 tvg-id="815" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd|user-agent="playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6"
-#EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="https://static.epg.best/nz/Nick.nz.png",Nick
+EXTINF:0 tvg-id="545" group-title="Kids" tvg-logo="https://static.epg.best/nz/Nick.nz.png",Nick
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/nickhindi/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d
